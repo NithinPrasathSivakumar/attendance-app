@@ -1,1 +1,2 @@
 Low attendance alert
+Alert when attendance is below 75%
